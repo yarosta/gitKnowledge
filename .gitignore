@@ -1,2 +1,15 @@
-# all ignored files by git
+#directories
+bin/
+build/
+
+#Cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+#temporary files
+*~
+
+
 
